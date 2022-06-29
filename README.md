@@ -54,3 +54,8 @@ Time:        5.091s
 Ran all test suites.
 ✨  Done in 6.61s.
 ```
+
+## 改动说明
+
+`v2-sdk`在 `npm` 仓库使用的是`3.0.2`版本，最新的代码与之前有较大改动。
+分支回退到了之前的`commit: b48a19d349774e8726ba28d5194ee5181295d6d4`
